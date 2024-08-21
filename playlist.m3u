@@ -1,1 +1,4 @@
+#EXTM3U
+#EXTINF:-1,Nome da Música
+http://seuservidor.com/caminho/para/o/arquivo.mp3
 
